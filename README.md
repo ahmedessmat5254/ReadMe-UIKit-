@@ -4,7 +4,6 @@
   <li>Add a new book (title, author, review and and image).</li>
   <li>Delete a book.</li>
   <li>Move a Book.</li>
-  <li>Sort books by title or author.<li>
-  <li>Manually sort books.<li>
-  
+  <li>Sort books by title or author.</li>
+  <li>Manually sort books.</li>
 </ul>
